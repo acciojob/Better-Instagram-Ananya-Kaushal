@@ -61,3 +61,12 @@ p {
 button {
   margin: 20px;
 }
+
+.image{
+	text-align:center;
+	line-height:300px;
+	color:white;
+	font-weight:bold;
+	cursor:grab;
+	border:1px solid black;
+}
